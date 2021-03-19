@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @SergioDaniel-G
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-SergioDaniel-G/SergioDaniel-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @SergioDaniel 
+- 👀 I’m interested i ingresar a una de las mejores empresas del mundo
+- 🌱 I’m currently learning computacion administrativa (desarrollo de paginas web)
+- 
+- 💞️ I’m looking to aportar el aprendizaje obtenido en mis estudios.
+- 📫 How to reach me: por medio de mi correo electronic
