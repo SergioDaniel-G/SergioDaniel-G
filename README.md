@@ -39,16 +39,16 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&) 
 
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-white?style=flat&logo=thymeleaf&)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=coffe&) 
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&) 
 ![NextJS](https://img.shields.io/badge/-springsecurity-black?style=flat&logo=springsecurity&)
 ![Springboot](https://img.shields.io/badge/-Springboot-gray?style=flat&logo=springboot&)
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioDaniel-G&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sergio Daniel Github Stats">
 </p>
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=SergioDaniel-G" alt="visitor badge"/>
 </p>
 
 -----
