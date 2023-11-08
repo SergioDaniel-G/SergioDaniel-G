@@ -33,15 +33,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&)
 
-![POSTMAN](https://img.shields.io/badge/-postman-02569B?style=flat&logo=json&)
+![POSTMAN](https://img.shields.io/badge/-postman-02569B?style=flat&logo=postman&)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&) 
 
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-white?style=flat&logo=typescript&)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=angular&) 
-![NextJS](https://img.shields.io/badge/-springsecurity-black?style=flat&logo=nextjs&)
-![Springboot](https://img.shields.io/badge/-Springboot-gray?style=flat&logo=mobx&)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-white?style=flat&logo=thymeleaf&)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=coffe&) 
+![NextJS](https://img.shields.io/badge/-springsecurity-black?style=flat&logo=springsecurity&)
+![Springboot](https://img.shields.io/badge/-Springboot-gray?style=flat&logo=springboot&)
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
