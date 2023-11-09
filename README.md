@@ -3,7 +3,7 @@
     
 ## Bienvenido a mi perfil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hola! soy Sergio Daniel Grajales Lopez a back end Developer de México.
+### Hola! soy Sergio Daniel Grajales Lopez backend Developer de México.
 
 ### Correo: danilinhoserg@hotmail.com
 
