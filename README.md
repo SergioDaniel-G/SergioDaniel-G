@@ -6,8 +6,7 @@
 ### Hola! soy Sergio Daniel Grajales Lopez backend Developer de México.
 
 ### Correo: danilinhoserg@hotmail.com
-
-###Telefono: 55 7385 4605
+Celular: 55 7385 4605
 
 <a href="https://www.linkedin.com/in/sergio-daniel-grajales-lopez-b619a91b0/">
   <img align="left" alt="Sergio Daniel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
