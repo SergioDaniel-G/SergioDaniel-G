@@ -7,9 +7,14 @@
 
 ### 📬 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-daniel-grajales-lopez-b619a91b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-daniel-grajales-lopez" height="30" width="40" /></a>
-<a href="mailto:danilinhoserg@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+<a href="https://www.linkedin.com/in/sergio-daniel-grajales-lopez-b619a91b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28" /></a>
+<a href="https://wa.me/525540246668" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="28" /></a>
+<a href="tel:+525540246668"><img align="center" src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" height="28" /></a>
+<a href="mailto:danilinhoserg@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
 </p>
+
+**📍 Location:** Cuautitlán, Estado de México, MX  
+**📞 Mobile:** [+52 55 4024 6668](tel:+525540246668)
 
 ---
 
@@ -40,6 +45,13 @@ I am a Backend Developer with a deep focus on the **Java Ecosystem**. My experti
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
   <img src="https://img.shields.io/badge/OSINT_Expertise-Blue?style=for-the-badge" alt="osint" />
 </p>
+
+---
+
+### 🧠 Soft Skills & Competencies
+- **Strategic Leadership:** Proven ability to guide projects and teams towards technical excellence.
+- **Problem Solving:** Analytical mindset focused on optimizing legacy code and database performance.
+- **Continuous Learning:** Actively practicing and implementing the latest features of Java and Spring Boot.
 
 ---
 
