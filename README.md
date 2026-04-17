@@ -1,61 +1,60 @@
+# Hi there! I'm Sergio Daniel Grajales López <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-!Back-end-developer con conocimientos en front-end!
-    
-## Bienvenido a mi perfil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 🚀 Computer Engineer | Backend Developer Specialist
+*Building scalable, secure, and high-performance server-side solutions.*
 
-### Hola! soy Sergio Daniel Grajales Lopez backend Developer de México.
+---
 
-### Correo: danilinhoserg@hotmail.com
-Celular: 55 7385 4605
-
-<a href="https://www.linkedin.com/in/sergio-daniel-grajales-lopez-b619a91b0/">
-  <img align="left" alt="Sergio Daniel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/sergio.daniel.94617999">
-  <img align="left" alt="Sergio Daniel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://wa.me/525573854605">
-  <img align="left" alt="Sergio Daniel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-
-<br />
-<br />
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-### 👨‍💻 Languajes y herramientas
-
-<br />
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&)
-
-![POSTMAN](https://img.shields.io/badge/-postman-02569B?style=flat&logo=postman&)
-
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&) 
-
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-white?style=flat&logo=thymeleaf&)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&) 
-![NextJS](https://img.shields.io/badge/-springsecurity-black?style=flat&logo=springsecurity&)
-![Springboot](https://img.shields.io/badge/-Springboot-gray?style=flat&logo=springboot&)
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioDaniel-G&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sergio Daniel Github Stats">
+### 📬 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/sergio-daniel-grajales-lopez-b619a91b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-daniel-grajales-lopez" height="30" width="40" /></a>
+<a href="mailto:danilinhoserg@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
 </p>
 
-<p align='center'>
+---
+
+### 🎯 Professional Focus
+I am a Backend Developer with a deep focus on the **Java Ecosystem**. My expertise lies in architecting robust systems that prioritize security and efficiency.
+
+* **Backend Architecture:** Expert in **Java 17** and **Spring Boot 3**, implementing Clean Architecture and SOLID principles to ensure maintainable codebases.
+* **API Development:** Specialized in designing **RESTful APIs** with complex business logic, integrated with **Spring Data JPA** and **Hibernate** for optimized database persistence.
+* **Security & Data:** Strong focus on application security using **Spring Security**. I leverage **OSINT (Open Source Intelligence)** methodologies to enhance data validation and investigative analysis.
+* **Future Path:** Currently deepening my knowledge in **Microservices Orchestration** (Docker/Kubernetes) and Cloud-Native development.
+
+---
+
+### 🛠️ Tech Stack
+
+**Core Technologies**
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="springboot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="springsecurity" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+</p>
+
+**Tools & Methodology**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="maven" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+  <img src="https://img.shields.io/badge/OSINT_Expertise-Blue?style=for-the-badge" alt="osint" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioDaniel-G&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Sergio's GitHub stats" />
+</p>
+
+---
+
+### 🌟 Featured Project: Inventory Management System
+*A full-stack enterprise solution built with **Spring Boot 3**. This project demonstrates my ability to handle secure authentication, relational database design, and RESTful communication.*
+- **Key achievement:** Optimized query response times and implemented a modular architecture for easy scaling.
+
+---
+<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=SergioDaniel-G" alt="visitor badge"/>
 </p>
-
------
-
-Credits: [Sergio](https://github.com/SergioDaniel-G)
-
-Ultima edicion: 11/07/2023
-- 📫 Actualmente cuento con dos proyectos personales en producción: ...
-- 😄 Otros que son privados: ...
-- ⚡ Fun fact: ...
--->
